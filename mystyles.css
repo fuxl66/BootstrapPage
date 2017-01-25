@@ -1,0 +1,37 @@
+.services {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  width: 350px;
+  text-align: center;
+  margin: 10px 10px;
+  border-style: solid;
+  float: auto;
+  padding: 10px;
+  }
+
+  .col-md-12 {
+    border-top-color: black;
+    border-top-width: 2px;
+    border-top-style: solid;
+    padding: 10px;
+    overflow: auto;
+  }
+
+  .subtitle {
+    text-align: center;
+  }
+
+  .alignment {
+    text-align: left;
+  }
+
+  .navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
