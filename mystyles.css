@@ -20,6 +20,8 @@
     border-top-style: solid;
     padding: 10px;
     overflow: auto;
+    display: table-cell;
+    vertical-align: top;
   }
 
   .subtitle {
