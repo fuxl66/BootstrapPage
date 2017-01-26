@@ -1,17 +1,21 @@
 .services {
+  max-width: 1200px;
   margin: 0 auto;
+  display: block;
+  /*
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center;*/
 }
 
 .box {
-  width: 350px;
+  width: 400px;
   text-align: center;
-  margin: 10px 10px;
-  border-style: solid;
-  float: auto;
-  padding: 10px;
+  margin: 50px;
+
+  padding: 30px;
+  display: table-cell;
+  vertical-align: top;
   }
 
   .col-md-12 {
@@ -20,20 +24,9 @@
     border-top-style: solid;
     padding: 10px;
     overflow: auto;
-    display: table-cell;
-    vertical-align: top;
   }
 
   .subtitle {
     text-align: center;
   }
 
-  .alignment {
-    text-align: left;
-  }
-
-  .navigation {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
