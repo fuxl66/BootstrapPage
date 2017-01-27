@@ -1,0 +1,9 @@
+.jump {
+	margin: 0 auto;
+	padding: 0 5%;
+	overflow: auto;
+}
+
+.mypanel{
+	min-height: 300px;
+}
