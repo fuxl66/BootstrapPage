@@ -21,9 +21,11 @@ td {
 	text-align: left;
 	height: 30px;
 	border:1px solid;
+	border-color: lightgrey;
 	padding: 10px;
 }
 
 table {
 	border:1px solid;
+	border-color: lightgrey;
 }
